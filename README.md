@@ -7,6 +7,11 @@ Plastic Origins is a project from the not-for-profit Surfrider Foundation Europe
 3. There is currently no obligation for European countries to monitor river plastic pollution. The European water framework directive does not include plastic pollution as an indicator for good environmental status.
 
 
-# All you need to know to get involved
+## All you need to know to get involved
 
-Developments and improvements are 
+Developments and improvements of Surfrider Plastic Origins tech tools are led by a bunch of amazing volunteers. Surfrider Europe in its own does not have within the organisation competencies to make all those developments. We rely on YOU for making this project a success. 
+
+
+### Project architecture
+
+![Project architecture](/assets/images/project-architecture.jpeg "Project architecture")
