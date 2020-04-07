@@ -14,4 +14,4 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
 
 ### Project architecture
 
-![Project architecture](/assets/project-architecture.jpeg "Project architecture")
+![Project architecture](/assets/project-architecture.jpg "Project architecture")
