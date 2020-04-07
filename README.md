@@ -1,2 +1,2 @@
-# Plastic-Origins-Project-Description
-Description of the Plastic Origins project
+## Surfrider Plastic Origins
+All you need to know to get involved on the Plastic Origins project.
