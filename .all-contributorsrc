@@ -31,6 +31,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "rcourivaud",
+      "name": "Raphaël Courivaud",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20335094?v=4",
+      "profile": "http://r.courivaud@gmail.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
