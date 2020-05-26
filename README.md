@@ -1,4 +1,7 @@
 # Surfrider Plastic Origins
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Plastic Origins is a project from the not-for-profit Surfrider Foundation Europe (www.surfrider.eu). We aim to map river plastic pollution for the following reasons:
 
@@ -19,6 +22,18 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
 ## Contributors
 
                    	                	              	                  	                      	                 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Clemsurfrider"><img src="https://avatars3.githubusercontent.com/u/61323067?v=4" width="100px;" alt=""/><br /><sub><b>Clemsurfrider</b></sub></a><br /><a href="#design-Clemsurfrider" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 
