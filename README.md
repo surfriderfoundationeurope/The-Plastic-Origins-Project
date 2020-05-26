@@ -19,7 +19,7 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
 ## People involved
 |                    |                  |                 |                        |                    |                   |
 | ------------------ | ---------------- | --------------- | ---------------------- | ------------------ | ----------------- |
-| Christopher Maneu  | Clément Le Roux  | Raph Courivaud  | Raphelle Bertrand-Lalo | Maxime Lemarchand  | ![Christophe Havard](/assets/ChristopheHavard.jpg)|
+| Christopher Maneu  | Clément Le Roux  | Raph Courivaud  | Raphelle Bertrand-Lalo | Maxime Lemarchand  | Christophe Havard |
 | Evangelina De Luca | Guillaume Erhard | Félix Voituret  | Vincent Guibertaud     | Yoan Dorny         | Annabelle Giard   |
 | Clément Baccar     | Constantin       | Lucas Rymenants | Charles Ollion         | Clémence Malmejean |                   |
 |                    |                  |                 |                        |                    |                   |
