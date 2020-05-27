@@ -67,6 +67,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Faylixe",
+      "name": "Félix Voituret",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/250322?v=4",
+      "profile": "http://felix.voituret.fr",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
