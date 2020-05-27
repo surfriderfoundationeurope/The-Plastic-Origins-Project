@@ -130,6 +130,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "aaadryyy",
+      "name": "Adrien Quillet",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20040637?v=4",
+      "profile": "https://github.com/aaadryyy",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
