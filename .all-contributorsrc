@@ -31,6 +31,69 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "bertrandlalo",
+      "name": "Raphaëlle Bertrand-Lalo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/22340670?v=4",
+      "profile": "https://www.linkedin.com/in/rapha%C3%ABlle-bertrand-lalo-185679b9/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cmaneu",
+      "name": "Christopher MANEU",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/790974?v=4",
+      "profile": "http://www.maneu.fr",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rcourivaud",
+      "name": "Raphaël Courivaud",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20335094?v=4",
+      "profile": "http://r.courivaud@gmail.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "charlesollion",
+      "name": "charlesollion",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10595147?v=4",
+      "profile": "https://github.com/charlesollion",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cl3m3nt",
+      "name": "cl3m3nt",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8882133?v=4",
+      "profile": "https://github.com/cl3m3nt",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Faylixe",
+      "name": "Félix Voituret",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/250322?v=4",
+      "profile": "http://felix.voituret.fr",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Vincent-Guiberteau",
+      "name": "Tekateyy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6638957?v=4",
+      "profile": "https://github.com/Vincent-Guiberteau",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
