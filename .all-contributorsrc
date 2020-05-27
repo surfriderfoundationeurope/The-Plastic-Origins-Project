@@ -139,6 +139,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "EmGarr",
+      "name": "Emilien Garreau",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9768541?v=4",
+      "profile": "https://github.com/EmGarr",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
