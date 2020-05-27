@@ -121,6 +121,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "maximelemarchand",
+      "name": "Maxime Lm",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31620346?v=4",
+      "profile": "https://github.com/maximelemarchand",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
