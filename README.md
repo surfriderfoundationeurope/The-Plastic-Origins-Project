@@ -28,12 +28,19 @@ We use the following tools for project management and dev:
 
 ### Repo organisation
 
-|                                                              |                                                              |
+| Repository                                                   | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [The-Plastic-Origins-Project](https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project) | You are currently in this repo. This is a general repo used to describe the projet. |
 | [plasticorigins-ops-db](https://github.com/surfriderfoundationeurope/plasticorigins-ops-db) | All scripts related to our PostGreSQL database. |
+| [fillbidatabase](https://github.com/surfriderfoundationeurope/fillbidatabase) | Code for the recurring job that fills Bi database |
 | [labelcv-web](https://github.com/surfriderfoundationeurope/labelcv-web) | Frontend of our data labeling plateforme. |
 | [LabelCV](https://github.com/surfriderfoundationeurope/LabelCV) | Backend of our data labeling plateforme. |
+| [MOT](https://github.com/surfriderfoundationeurope/mot) | AI model currently used to detect trash on videos |
+| [Faster-RCNN-waste-detector](https://github.com/surfriderfoundationeurope/Faster-RCNN-waste-detector) | First AI model developed but no in use anymore |
+| [Plastic-origin](https://github.com/surfriderfoundationeurope/plastic-origin) | Frontend of [Plastic Origins' website](www.plasticorigins.eu) |
+| [etl](https://github.com/surfriderfoundationeurope/etl) | ETL script used to send videos to AI, read results and write in DB |
+| [plastic-origins-cloud-ops](https://github.com/surfriderfoundationeurope/plastic-origins-cloud-ops) | ... |
+| [po-mobile-backend](https://github.com/surfriderfoundationeurope/po-mobile-backend) | API for data upload from app or website |
 
 
 
