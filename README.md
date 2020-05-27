@@ -1,6 +1,6 @@
 # Surfrider Plastic Origins
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Plastic Origins is a project from the not-for-profit Surfrider Foundation Europe (www.surfrider.eu). We aim to map river plastic pollution for the following reasons:
@@ -59,6 +59,7 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
     <td align="center"><a href="https://github.com/anth2o"><img src="https://avatars3.githubusercontent.com/u/33425718?v=4" width="100px;" alt=""/><br /><sub><b>Antoine</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=anth2o" title="Code">💻</a></td>
     <td align="center"><a href="http://www.thomas-robert.fr"><img src="https://avatars0.githubusercontent.com/u/4163601?v=4" width="100px;" alt=""/><br /><sub><b>Thomas ROBERT</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=ThomasRobertFr" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lise-deguilhem"><img src="https://avatars3.githubusercontent.com/u/62648003?v=4" width="100px;" alt=""/><br /><sub><b>lise-deguilhem</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=lise-deguilhem" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AntoineBruge"><img src="https://avatars1.githubusercontent.com/u/46377579?v=4" width="100px;" alt=""/><br /><sub><b>Antoine Bruge</b></sub></a><br /><a href="#projectManagement-AntoineBruge" title="Project Management">📆</a></td>
   </tr>
 </table>
 
