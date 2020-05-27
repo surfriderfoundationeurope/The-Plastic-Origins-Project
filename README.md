@@ -2,9 +2,10 @@
 
 Plastic Origins is a project from the not-for-profit [Surfrider Foundation Europe](www.surfrider.eu). We aim to map river plastic pollution. It's a **hot topic**, here is why:
 
-1. Ocean plastic pollution mainly comes from terrestrial sources. Rivers are pathways for litter entering the ocean. For instance, a bottle lost in Paris city might end-up in the Seine River and reach the sea.
-2. Investigating river plastic pollution helps to localize plastic inputs and monitor trends, improvements and measures efficiency.
-3. There is currently no obligation for European countries to monitor river plastic pollution. The European water framework directive does not include plastic pollution as an indicator for good environmental status.
+1. Plastic pollution is the second biggest threat to our Ocean after climate change.
+2. Ocean plastic pollution mainly comes from terrestrial sources. Rivers are pathways for litter entering the ocean. For instance, a bottle lost in Paris city might end-up in the Seine River and reach the sea.
+3. Investigating river plastic pollution helps to localize plastic inputs and monitor trends, improvements and measures efficiency.
+4. There is currently no obligation for European countries to monitor river plastic pollution. The European water framework directive does not include plastic pollution as an indicator for good environmental status.
 
 
 ## All you need to know to get involved
