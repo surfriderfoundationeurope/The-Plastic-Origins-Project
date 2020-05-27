@@ -16,6 +16,7 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
 
 ![Project architecture](/assets/project-architecture.JPG)
 
+
 ### How we work
 
 We use the following tools for project management and dev:
@@ -23,17 +24,20 @@ We use the following tools for project management and dev:
 2. [Azure DevOps](https://dev.azure.com/surfrider/PlasticOrigins/) -> to list tasks, organise the work to be done, to make builds and deployments
 3. GitHub -> to store codes, codes' descriptions, documentation and Architectural Decision Record (ADR). When building an API, please mind of writting a swagger file, think about quotas limits and associated costs & get in touch with @lise-deguilhem who currently deal with the APIm.
 
+
 ### Ready? Get involved!
 
 Please, get in touch with @AntoineBruge.
 
 
+
 ## Contributors
+
+Thanks everyone !
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-Thanks everyone !
                    	                	              	                  	                      	                 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -79,6 +83,7 @@ Thanks everyone !
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 Thanks also go to people who are not on GitHub but still actively contributing to the project's sucess.
 
