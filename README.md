@@ -55,6 +55,7 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jpacifico"><img src="https://avatars2.githubusercontent.com/u/6375548?v=4" width="100px;" alt=""/><br /><sub><b>Jonathan</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=jpacifico" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.yoan-dorny.com"><img src="https://avatars0.githubusercontent.com/u/23553867?v=4" width="100px;" alt=""/><br /><sub><b>Yoan</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=YoanDo" title="Code">💻</a></td>
   </tr>
 </table>
 
