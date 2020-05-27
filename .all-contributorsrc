@@ -86,7 +86,7 @@
         "code"
       ]
     },
-        {
+    {
       "login": "lucasrymenants",
       "name": "lucasrymenants",
       "avatar_url": "https://avatars2.githubusercontent.com/u/15192989?v=4",
@@ -100,6 +100,15 @@
       "name": "Tekateyy",
       "avatar_url": "https://avatars3.githubusercontent.com/u/6638957?v=4",
       "profile": "https://github.com/Vincent-Guiberteau",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PaulPidou",
+      "name": "Paul Pidou",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4563446?v=4",
+      "profile": "http://www.paul-pidou.name",
       "contributions": [
         "code"
       ]
