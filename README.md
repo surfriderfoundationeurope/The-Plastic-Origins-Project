@@ -1,6 +1,6 @@
 # Surfrider Plastic Origins
 
-Plastic Origins is a project from the not-for-profit [Surfrider Foundation Europe](www.surfrider.eu). We aim to map river plastic pollution for the following reasons:
+Plastic Origins is a project from the not-for-profit [Surfrider Foundation Europe](www.surfrider.eu). We aim to map river plastic pollution. It's a **hot topic**, here is why:
 
 1. Ocean plastic pollution mainly comes from terrestrial sources. Rivers are pathways for litter entering the ocean. For instance, a bottle lost in Paris city might end-up in the Seine River and reach the sea.
 2. Investigating river plastic pollution helps to localize plastic inputs and monitor trends, improvements and measures efficiency.
@@ -22,7 +22,7 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
 We use the following tools for project management and dev:
 1. Microsoft Teams -> for discussions 
 2. [Azure DevOps](https://dev.azure.com/surfrider/PlasticOrigins/) -> to list tasks, organise the work to be done, to make builds and deployments
-3. GitHub -> to store codes, codes' descriptions, documentation and Architectural Decision Record (ADR). When building an API, please mind of writting a swagger file, think about quotas limits and associated costs & get in touch with @lise-deguilhem who currently deal with the APIm.
+3. [GitHub](https://github.com/surfriderfoundationeurope) -> to store codes, codes' descriptions, documentation and Architectural Decision Record (ADR). When building an API, please mind of writting a swagger file, think about quotas limits and associated costs & get in touch with @lise-deguilhem who currently deal with the APIm.
 
 
 ### Ready? Get involved!
