@@ -26,6 +26,14 @@ We use the following tools for project management and dev:
 3. [GitHub](https://github.com/surfriderfoundationeurope) -> to store codes, codes' descriptions, documentation and Architectural Decision Record (ADR). When building an API, please mind of writting a swagger file, think about quotas limits and associated costs & get in touch with @lise-deguilhem who currently deal with the APIm.
 
 
+### Repo organisation
+[The-Plastic-Origins-Project](https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project) | You are currently in this repo. This is a general repo used to describe the projet.
+[plasticorigins-ops-db](https://github.com/surfriderfoundationeurope/plasticorigins-ops-db) | All scripts related to our PostGreSQL database.
+[labelcv-web](https://github.com/surfriderfoundationeurope/labelcv-web) | Frontend of our data labeling plateforme
+[LabelCV](https://github.com/surfriderfoundationeurope/LabelCV) | Backend of our data labeling plateforme
+
+
+
 ### Ready? Get involved!
 
 Please, get in touch with @AntoineBruge.
