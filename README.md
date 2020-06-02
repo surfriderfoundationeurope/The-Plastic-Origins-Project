@@ -45,7 +45,7 @@ Developments and improvements of Surfrider Plastic Origins tech tools are led by
     <td align="center"><a href="https://github.com/maximelemarchand"><img src="https://avatars2.githubusercontent.com/u/31620346?v=4" width="100px;" alt=""/><br /><sub><b>Maxime Lm</b></sub></a><br /><a href="#design-maximelemarchand" title="Design">🎨</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/aaadryyy"><img src="https://avatars3.githubusercontent.com/u/20040637?v=4" width="100px;" alt=""/><br /><sub><b>Adrien Quillet</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=aaadryyy" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/aaadryyy"><img src="https://avatars3.githubusercontent.com/u/20040637?v=4" width="100px;" alt=""/><br /><sub><b>Adrien Quillet</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=aaadryyy" title="Code">💻</a> <a href="#design-aaadryyy" title="Design">🎨</a></td>
   </tr>
 </table>
 
