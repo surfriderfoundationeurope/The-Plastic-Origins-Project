@@ -141,6 +141,15 @@
       ]
     },
     {
+      "login": "jules-larue",
+      "name": "jules-larue",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20040637?v=4",
+      "profile": "https://github.com/aaadryyy",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "EmGarr",
       "name": "Emilien Garreau",
       "avatar_url": "https://avatars1.githubusercontent.com/u/9768541?v=4",
@@ -256,3 +265,5 @@
   "repoHost": "https://github.com",
   "skipCi": true
 }
+
+
