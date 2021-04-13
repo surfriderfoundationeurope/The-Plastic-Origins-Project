@@ -1,6 +1,12 @@
-# Surfrider Plastic Origins
+<h1 align="left">Surfrider Plastic Origins</h1>
 
-Plastic Origins is a project from the not-for-profit [Surfrider Foundation Europe](www.surfrider.eu). We aim to map river plastic pollution. It's a **hot topic**, here is why:
+<a href="https://www.plasticorigins.eu/"><img width="80px" src="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/blob/master/assets/PlasticOrigins_logo.png" width="5%" height="5%" align="left" hspace="0" vspace="0"></a>
+
+  <p align="justify">Proudly Powered by <a href="https://surfrider.eu/">SURFRIDER Foundation Europe</a>, the <a href="https://www.plasticorigins.eu/">PLASTIC ORIGINS</a> project is a citizen science project that uses AI to map plastic pollution in European rivers and share its data publicly. Check below to know more about project initiatives and how you can get involved. Please consider starring :star: the project's repositories to show your interest and support. We rely on YOU for making this project a success and thank you in advance for your contributions.</p>
+
+_________________
+
+[Plastic Origins](https://www.plasticorigins.eu/) is a project initiated by the not-for-profit [Surfrider Foundation Europe](https://surfrider.eu/) in search of solutions to address the source of ocean pollution. Supported by citizens, associations, scientists, and socially responsible companies, the Plastic Origins project aims to map plastic pollution in European rivers by applying participatory science and Artificial Intelligence technology. This mapping data helps to identify areas of high impact, gain a deeper understanding of the problem on the field, and measure the evolution of pollution over time as well as to raise awareness among political decision-makers on the local, national, and European levels and urge them to act. It's a **hot topic**, here is why:
 
 1. Plastic pollution is the second biggest threat to our Ocean after climate change.
 2. Ocean plastic pollution mainly comes from terrestrial sources. Rivers are pathways for litter entering the ocean. For instance, a bottle lost in Paris city might end-up in the Seine River and reach the sea.
@@ -10,38 +16,49 @@ Plastic Origins is a project from the not-for-profit [Surfrider Foundation Europ
 
 ## All you need to know to get involved
 
-Developments and improvements of Surfrider Plastic Origins tech tools are led by a bunch of amazing volunteers. Surfrider Europe in its own does not have within the organisation competencies to make all those developments. We rely on YOU for making this project a success. 
+Developments and improvements of Surfrider Plastic Origins tech tools are led by a bunch of amazing volunteers. Surfrider Europe on its own does not have within the organisation technical competencies thus we rely on YOU for making this project a success and welcome any help since there are many ways to contribute, even if you’re not a technical person.
+
+Only with a common effort we can refine the technology, improve and duplicate it, which is why the code is open-source on the [Surfrider Foundation Europe GitHub page](https://github.com/surfriderfoundationeurope), and collected data is available online and publicly accessible on the [Plastic Origins website](https://www.plasticorigins.eu/). 
 
 
-### Project architecture
+### How does it work?
 
-![Project architecture](/assets/project-architecture.JPG)
+* Volunteers film riverbanks via the Plastic Origins mobile application available on [Android](https://play.google.com/store/apps/details?id=com.plasticorigins&hl=fr&gl=US) & [IOS](https://apps.apple.com/fr/app/plastic-origins/id1532710998) (collection of videos and manually labeled images) or by using GoPro (collection of videos uploaded to the [Plastic Origins website](https://www.plasticorigins.eu/)).
+* Our [Data Labeling Platform](https://www.trashroulette.com/) allows building a labeled image dataset via crowdsourcing (people tag an existing image dataset and/or contribute to this dataset by uploading images) that helps to improve our AI waste detection and tracking prediction.
+* AI recognizes and classifies waste on collected videos to give an open source mapping that feeds and collects data in #OpenData.
 
 
 ### How we work
 
 We use the following tools for project management and dev:
-1. Microsoft Teams -> for discussions 
-2. [Azure DevOps](https://dev.azure.com/surfrider/PlasticOrigins/) -> to list tasks, organise the work to be done, to make builds and deployments
-3. [GitHub](https://github.com/surfriderfoundationeurope) -> to store codes, codes' descriptions, documentation and Architectural Decision Record (ADR). When building an API, please mind of writting a swagger file, think about quotas limits and associated costs & get in touch with @lise-deguilhem who currently deal with the APIm.
+
+* [Microsoft Teams](https://teams.microsoft.com/l/team/19%3aa3a655a6dce949ed9fe1a6db4e2d6a95%40thread.skype/conversations?groupId=c312e78d-ae29-4ec0-9cd6-1f9999167ebe&tenantId=1fb581f3-43ef-4dfd-b8f7-4ca7bc32ec24) -> for discussions.
+* [Azure DevOps](https://dev.azure.com/surfrider/PlasticOrigins/) -> to make builds and deployments.
+* [GitHub](https://github.com/surfriderfoundationeurope) -> to store codes, codes' descriptions, documentation and Architectural Decision Record (ADR).
+
+Our development language is English. All comments and documentation should be written in English so we can share our learnings with developers around the world.
+
+<p align="left">
+   <img src="assets/PO project Diagram.png" width="100%" height="100%">
+ </p>
 
 
 ### Repo organisation
 
-| Repository                                                   | Description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [The-Plastic-Origins-Project](https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project) | You are currently in this repo. This is a general repo used to describe the projet. |
-| [plasticorigins-ops-db](https://github.com/surfriderfoundationeurope/plasticorigins-ops-db) | All scripts related to our PostGreSQL database. |
-| [fillbidatabase](https://github.com/surfriderfoundationeurope/fillbidatabase) | Code for the recurring job that fills Bi database |
-| [labelcv-web](https://github.com/surfriderfoundationeurope/labelcv-web) | Frontend of our data labeling plateforme. |
-| [LabelCV](https://github.com/surfriderfoundationeurope/LabelCV) | Backend of our data labeling plateforme. |
-| [MOT](https://github.com/surfriderfoundationeurope/mot) | AI model currently used to detect trash on videos |
-| [Faster-RCNN-waste-detector](https://github.com/surfriderfoundationeurope/Faster-RCNN-waste-detector) | First AI model developed but no in use anymore |
-| [Plastic-origin](https://github.com/surfriderfoundationeurope/plastic-origin) | Frontend of [Plastic Origins' website](www.plasticorigins.eu) |
-| [etl](https://github.com/surfriderfoundationeurope/etl) | ETL script used to send videos to AI, read results and write in DB |
-| [plastic-origins-cloud-ops](https://github.com/surfriderfoundationeurope/plastic-origins-cloud-ops) | ... |
-| [po-mobile-backend](https://github.com/surfriderfoundationeurope/po-mobile-backend) | API for data upload from app or website |
-
+| ID | Repository | Description | RG-Azure | Maintainers |
+| -- | ---------- | ----------- | -------- |------------ |
+| GEN | [The-Plastic-Origins-Project](https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project) | You are currently in this repo used for the Plastic Origins project description. |  |[@AntoineBruge](https://github.com/AntoineBruge) |
+| APP | [App-Plastic-Origins](https://github.com/surfriderfoundationeurope/App-Plastic-Origins) `Private` | `WIP` - Plastic Origins Mobile app (available on [Android](https://play.google.com/store/apps/details?id=com.plasticorigins&hl=fr&gl=US) & [IOS](https://apps.apple.com/fr/app/plastic-origins/id1532710998)). | |[@AlexisReverte](https://github.com/AlexisReverte) |
+| Data LP | [labelcv-web](https://github.com/surfriderfoundationeurope/labelcv-web) | Frontend of our [Data Labeling Platform](https://www.trashroulette.com/). | [Dev](rg-plastic-labellingplatform-dev) [Prod]( rg-labellingplatform-prod​) |[@cmaneu](https://github.com/cmaneu) / [@bertrandlalo](https://github.com/bertrandlalo)|
+| API LP | [LabelCV](https://github.com/surfriderfoundationeurope/LabelCV) | `WIP` - Backend of our [Data Labeling Plateforme](https://www.trashroulette.com/). |  |[@cmaneu](https://github.com/cmaneu)|
+| API | [po-mobile-backend](https://github.com/surfriderfoundationeurope/po-mobile-backend) | Plastic Origins 'all in one' Backend - API for data upload from app or website. |[Dev](rg-plastico-mobilebackend-dev​) [Prod](rg-plastico-mobilebackend-prod) |[@cmaneu](https://github.com/cmaneu) / [@benzinamohamedelyes](https://github.com/benzinamohamedelyes)  / [@Vincent-Guiberteau](https://github.com/Vincent-Guiberteau)|
+| Data MGT | [etl](https://github.com/surfriderfoundationeurope/etl) | ETL script used to send videos to AI, read results and write in DB | [Dev](rg-plastico-etl-dev​) [Prod](rg-plastico-etl-prod​) |[@cl3m3nt](https://github.com/cl3m3nt)|
+| AI | [MOT](https://github.com/surfriderfoundationeurope/mot) | AI model currently used to detect trash on videos | [Dev](rg-plastic-ai-dev) [Prod](rg-plastic-ai-prod)|[@charlesollion](https://github.com/charlesollion) / [@mchagneux](https://github.com/mchagneux)|
+| DB MGT | [plasticorigins-ops-db](https://github.com/surfriderfoundationeurope/plasticorigins-ops-db) | All scripts related to our PostGreSQL database. | [Dev](rg-plastico-database-dev​) [Prod](rg-plastico-database-prod​) |[@ChristopheHvd](https://github.com/ChristopheHvd) / [@cmaneu](https://github.com/cmaneu)|
+| BI DB | [fillbidatabase](https://github.com/surfriderfoundationeurope/fillbidatabase) | Code for the recurring job that fills Bi database |[Dev](rg-plastico-database-dev​) [Prod](rg-plastico-database-prod​) |[@ChristopheHvd](https://github.com/ChristopheHvd) / [@clembac](https://github.com/clembac) / [@MaxLemarchand](https://github.com/MaxLemarchand) |
+| API DB | [api-plastic-origins](https://github.com/surfriderfoundationeurope/api-plastic-origins) `Private` | `WIP` - API that allows access our data to do cartographic visualization. |[Dev](rg-plastico-APIdb-dev​) [Prod](rg-plastico-APIdb-prod​)|[@AntoineGirard](https://github.com/AntoineGirard)|
+| Data VIZ | [Plastic-origin](https://github.com/surfriderfoundationeurope/plastic-origin) `Private`| `WIP` - Frontend of our [Plastic Origins website](www.plasticorigins.eu) | [Dev](rg-plastico-publicwebsite-dev) [Prod](rg-plastico-publicwebsite-prod​)|[@YoanDo](https://github.com/YoanDo)|
+| CMS | [plastic-origin-web-cms](https://github.com/surfriderfoundationeurope/plastic-origin-web-cms) `Private`| `WIP` - Headless cms for our [Plastic Origins website](www.plasticorigins.eu)  | [Dev](rg-plastico-publicwebsite-dev) [Prod](rg-plastico-publicwebsite-prod​)|[@YoanDo](https://github.com/YoanDo)|
 
 
 ### Ready? Get involved!
@@ -109,3 +126,6 @@ Thanks everyone !
 Thanks also go to people who are not on GitHub but still actively contributing to the project's sucess.
 
 
+## License
+
+We’re using the `MIT` License. For more details, check [`LICENSE`](https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/blob/master/LICENSE) file.
