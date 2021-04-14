@@ -72,7 +72,7 @@ Please, get in touch with @AntoineBruge.
 Thanks everyone !
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
                    	                	              	                  	                      	                 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -114,6 +114,9 @@ Thanks everyone !
     <td align="center"><a href="http://www.thomas-robert.fr"><img src="https://avatars0.githubusercontent.com/u/4163601?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thomas ROBERT</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=ThomasRobertFr" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lise-deguilhem"><img src="https://avatars3.githubusercontent.com/u/62648003?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lise-deguilhem</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=lise-deguilhem" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/AntoineBruge"><img src="https://avatars1.githubusercontent.com/u/46377579?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antoine Bruge</b></sub></a><br /><a href="#projectManagement-AntoineBruge" title="Project Management">📆</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/IKozitska"><img src="https://avatars.githubusercontent.com/u/79417358?v=4?s=100" width="100px;" alt=""/><br /><sub><b>iuliia.kozitska</b></sub></a><br /><a href="#projectManagement-IKozitska" title="Project Management">📆</a></td>
   </tr>
 </table>
 
