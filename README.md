@@ -72,7 +72,7 @@ Please, get in touch with [@AntoineBruge](https://github.com/AntoineBruge).
 Thanks everyone !
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
                    	                	              	                  	                      	                 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -122,6 +122,7 @@ Thanks everyone !
     <td align="center"><a href="https://github.com/benzinamohamedelyes"><img src="https://avatars.githubusercontent.com/u/69303140?v=4?s=100" width="100px;" alt=""/><br /><sub><b>benzinamohamedelyes</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=benzinamohamedelyes" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/francis-valla"><img src="https://avatars.githubusercontent.com/u/42340008?v=4?s=100" width="100px;" alt=""/><br /><sub><b>francis-valla</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=francis-valla" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mchagneux"><img src="https://avatars.githubusercontent.com/u/28506422?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mchagneux</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=mchagneux" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.jeanremypraud.com"><img src="https://avatars.githubusercontent.com/u/3785695?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JR</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=jeanremy" title="Code">💻</a></td>
   </tr>
 </table>
 
