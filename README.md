@@ -72,7 +72,7 @@ Please, get in touch with [@AntoineBruge](https://github.com/AntoineBruge).
 Thanks everyone !
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
                    	                	              	                  	                      	                 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -119,6 +119,7 @@ Thanks everyone !
     <td align="center"><a href="https://github.com/IKozitska"><img src="https://avatars.githubusercontent.com/u/79417358?v=4?s=100" width="100px;" alt=""/><br /><sub><b>iuliia.kozitska</b></sub></a><br /><a href="#projectManagement-IKozitska" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/AlexisReverte"><img src="https://avatars.githubusercontent.com/u/6009041?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexis Reverte</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=AlexisReverte" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/AntoineGirard"><img src="https://avatars.githubusercontent.com/u/12141434?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antoine Girard</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=AntoineGirard" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/benzinamohamedelyes"><img src="https://avatars.githubusercontent.com/u/69303140?v=4?s=100" width="100px;" alt=""/><br /><sub><b>benzinamohamedelyes</b></sub></a><br /><a href="https://github.com/surfriderfoundationeurope/The-Plastic-Origins-Project/commits?author=benzinamohamedelyes" title="Code">💻</a></td>
   </tr>
 </table>
 
