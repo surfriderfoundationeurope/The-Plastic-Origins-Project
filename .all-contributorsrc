@@ -274,6 +274,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "AntoineGirard",
+      "name": "Antoine Girard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12141434?v=4",
+      "profile": "https://github.com/AntoineGirard",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
