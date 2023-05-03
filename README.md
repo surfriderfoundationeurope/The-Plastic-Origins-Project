@@ -63,7 +63,7 @@ Our development language is English. All comments and documentation should be wr
 
 ### Ready? Get involved!
 
-Please, get in touch with [@AntoineBruge](https://github.com/AntoineBruge).
+Please, get in touch with [@SabineAllouSurfrider](https://github.com/sabineallousurfrider).
 
 
 
